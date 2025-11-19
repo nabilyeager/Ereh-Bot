@@ -1,4 +1,4 @@
-module.exports.config = {
+nomodule.exports.config = {
   name: "hi",
   version: "1.0.0",
   hasPermssion: 0,
@@ -82,7 +82,7 @@ module.exports.languages = {
 	"en": {
 		"on": "on",
 		"off": "off",
-		"successText": "success!",
+		"successText": "success! nabil",
 	}
 }
 
